@@ -1,12 +1,12 @@
 {
   "fixes": {
-    "repo": "ABAID-CODER/crackworld-manifest"
+    "repo": "ABAID-CODER/cw-fixes"
   },
   "tools": {
-    "repo": "SteamAutoCracks/Steam-auto-crack"
+    "repo": "ABAID-CODER/cw-tools"
   },
   "softwares": {
-    "repo": "SteamAutoCracks/Steam-auto-crack"
+    "repo": "ABAID-CODER/cw-softwares"
   },
   "discordInviteLink": "https://discord.gg/G8kMwXR3E"
 }
