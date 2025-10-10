@@ -1,12 +1,12 @@
 {
   "fixes": {
-    "repo": "ABAID-CODER/cw-fixes"
+    "repo": "cwabaid/cw.fixes"
   },
   "tools": {
-    "repo": "ABAID-CODER/cw-tools"
+    "repo": "cwabaid/cw.tools"
   },
   "softwares": {
-    "repo": "ABAID-CODER/cw-softwares"
+    "repo": "cwabaid/cw.softwares"
   },
   "discordInviteLink": "https://discord.gg/G8kMwXR3E"
 }
