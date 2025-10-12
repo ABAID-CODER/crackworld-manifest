@@ -1,12 +1,6 @@
 {
-  "fixes": {
-    "repo": "cwabaid/cw.fixes"
-  },
-  "tools": {
-    "repo": "cwabaid/cw.tools"
-  },
-  "softwares": {
-    "repo": "cwabaid/cw.softwares"
-  },
-  "discordInviteLink": "https://discord.gg/q7jukKbCZT"
+  "fixesRepo": "cwabaid/cw.fixes",
+  "toolsRepo": "cwabaid/cw.tools",
+  "softwaresRepo": "cwabaid/cw.softwares",
+  "lastUpdated": "2025-10-12T17:04:45.155Z"
 }
