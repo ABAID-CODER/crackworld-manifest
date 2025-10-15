@@ -1,0 +1,3 @@
+# The Update.
+
+Fixed the game rendering and did some UI tweaks and the app is fully functional.
