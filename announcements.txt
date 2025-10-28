@@ -1,12 +1,8 @@
 # The app has some bugs for now!!!
 
-[10/19/2025, 2:00:08 PM]
+[10/28/2025, 9:38:23 PM]
 
-Bugs 
-
-The app has some bugs for now, so, we are gonna update the app soon.
-
-Give Suggestions
+# The App is ready,
 
 If you think, there should be something else too, then let your suggestions be in our server.
 - Go to server for any bug reports and feature addition requests.
